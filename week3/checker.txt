@@ -1,0 +1,2 @@
+I am finding the details of file checker.txt using stat command in linux.
+Its solution is in file file_checker.c
